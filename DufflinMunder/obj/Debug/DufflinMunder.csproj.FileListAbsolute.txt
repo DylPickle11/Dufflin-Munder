@@ -1,0 +1,6 @@
+/Users/dylpickle/Code/Dufflin-Munder/DufflinMunder/obj/Debug/DufflinMunder.csprojAssemblyReference.cache
+/Users/dylpickle/Code/Dufflin-Munder/DufflinMunder/obj/Debug/DufflinMunder.csproj.CoreCompileInputs.cache
+/Users/dylpickle/Code/Dufflin-Munder/DufflinMunder/bin/Debug/DufflinMunder.exe
+/Users/dylpickle/Code/Dufflin-Munder/DufflinMunder/bin/Debug/DufflinMunder.pdb
+/Users/dylpickle/Code/Dufflin-Munder/DufflinMunder/obj/Debug/DufflinMunder.exe
+/Users/dylpickle/Code/Dufflin-Munder/DufflinMunder/obj/Debug/DufflinMunder.pdb
